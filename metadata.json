@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Hierarchy & KPI Governance Hub",
+  "description": "Enterprise organizational hierarchy management, mathematically weighted KPI rollups, committee operations with Arabic fuzzy search, progress velocity forecasting, and offline GIS mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
